@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="128" tileheight="128" nextobjectid="1">
+ <tileset firstgid="1" source="../../../GIT Projects/Unity Platform/Mappe tilesets etc/newtilesets/woods.tsx"/>
+ <layer name="Livello tile 1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMFgAMxKmJ+BEwiPdXlrGAbK9zGgYnxylmHMU0x0DAGhIBCc=
+  </data>
+ </layer>
+ <layer name="Livello tile 2" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20JT6AAAHgaCWAAAQ==
+  </data>
+ </layer>
+</map>
